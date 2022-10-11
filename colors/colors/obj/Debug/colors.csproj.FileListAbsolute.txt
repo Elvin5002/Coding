@@ -1,0 +1,11 @@
+E:\Programming\colors\colors\bin\Debug\colors.exe.config
+E:\Programming\colors\colors\bin\Debug\colors.exe
+E:\Programming\colors\colors\bin\Debug\colors.pdb
+E:\Programming\colors\colors\obj\Debug\colors.csproj.AssemblyReference.cache
+E:\Programming\colors\colors\obj\Debug\colors.csproj.SuggestedBindingRedirects.cache
+E:\Programming\colors\colors\obj\Debug\colors.Form1.resources
+E:\Programming\colors\colors\obj\Debug\colors.Properties.Resources.resources
+E:\Programming\colors\colors\obj\Debug\colors.csproj.GenerateResource.cache
+E:\Programming\colors\colors\obj\Debug\colors.csproj.CoreCompileInputs.cache
+E:\Programming\colors\colors\obj\Debug\colors.exe
+E:\Programming\colors\colors\obj\Debug\colors.pdb
