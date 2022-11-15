@@ -1,0 +1,12 @@
+E:\Programming\Task\Task\bin\Debug\Task.exe.config
+E:\Programming\Task\Task\bin\Debug\Task.exe
+E:\Programming\Task\Task\bin\Debug\Task.pdb
+E:\Programming\Task\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+E:\Programming\Task\Task\obj\Debug\Task.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Task\Task\obj\Debug\Task.Form1.resources
+E:\Programming\Task\Task\obj\Debug\Task.profile.resources
+E:\Programming\Task\Task\obj\Debug\Task.Properties.Resources.resources
+E:\Programming\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+E:\Programming\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+E:\Programming\Task\Task\obj\Debug\Task.exe
+E:\Programming\Task\Task\obj\Debug\Task.pdb
